@@ -103,7 +103,7 @@ coffee-shop-app/
 
 | Home Page | Menu Page |
 |:---:|:---:|
-| <img src="./Screenshots/HomePage.png" width="400"/> | <img src="./Screenshots/MenuPage.png" width="400"/> |
+| <img src="./Screenshots/Homepage.png" width="400"/> | <img src="./Screenshots/MenuPage.png" width="400"/> |
 
 | Reservations Page | Feedback Page |
 |:---:|:---:|
