@@ -99,6 +99,15 @@ coffee-shop-app/
 | POST | `/api/reservations` | Create new reservation |
 | POST | `/api/feedback` | Submit feedback |
 
+## 📸 Screenshots
+
+| Home Page | Menu Page |
+|:---:|:---:|
+| <img src="./Screenshots/HomePage.png" width="400"/> | <img src="./Screenshots/MenuPage.png" width="400"/> |
+
+| Reservations Page | Feedback Page |
+|:---:|:---:|
+| <img src="./Screenshots/ReservationPage.png" width="400"/> | <img src="./Screenshots/FeedbackPage.png" width="400"/> |
 
 ## 🎯 Future Enhancements
 
